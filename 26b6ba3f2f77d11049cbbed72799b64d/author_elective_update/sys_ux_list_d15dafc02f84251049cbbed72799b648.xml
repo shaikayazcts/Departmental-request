@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list">
+    <sys_ux_list action="DELETE">
+        <active>true</active>
+        <category display_value="Type">595dafc02f84251049cbbed72799b646</category>
+        <columns/>
+        <condition/>
+        <configuration display_value="Dept Request_menu_config">095dafc02f84251049cbbed72799b61f</configuration>
+        <group_by_column/>
+        <groups/>
+        <list_attributes/>
+        <order>50</order>
+        <roles/>
+        <sys_class_name>sys_ux_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 05:22:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>d15dafc02f84251049cbbed72799b648</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_update_name>sys_ux_list_d15dafc02f84251049cbbed72799b648</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 05:22:17</sys_updated_on>
+        <table>x_804955_dept_re_0_type</table>
+        <title>All</title>
+    </sys_ux_list>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</application>
+        <file_path/>
+        <instance_id>1f0bd872dbbc97487d8cf22ebf961918</instance_id>
+        <instance_name>dev52979</instance_name>
+        <name>sys_ux_list_d15dafc02f84251049cbbed72799b648</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_list"><sys_ux_list action="INSERT_OR_UPDATE"><active>true</active><category display_value="Type">595dafc02f84251049cbbed72799b646</category><columns/><condition/><configuration display_value="Dept Request_menu_config">095dafc02f84251049cbbed72799b61f</configuration><group_by_column/><groups/><list_attributes/><order>50</order><roles/><sys_class_name>sys_ux_list</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-24 05:22:17</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>d15dafc02f84251049cbbed72799b648</sys_id><sys_mod_count>0</sys_mod_count><sys_name>All</sys_name><sys_overrides/><sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package><sys_policy/><sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope><sys_update_name>sys_ux_list_d15dafc02f84251049cbbed72799b648</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-24 05:22:17</sys_updated_on><table>x_804955_dept_re_0_type</table><title>All</title></sys_ux_list></record_update>]]></payload>
+        <payload_hash>-1276906319</payload_hash>
+        <record_name>All</record_name>
+        <reverted_from/>
+        <source>e2b6ba3f2f77d11049cbbed72799b6b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 05:22:17</sys_created_on>
+        <sys_id>1d5dafc02f84251049cbbed72799b649</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1854294f9940000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 05:22:17</sys_updated_on>
+        <type>UX List</type>
+        <update_guid>555dafc0a38425105a5766b955e0ca49</update_guid>
+        <update_guid_history>555dafc0a38425105a5766b955e0ca49:-1276906319</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 05:57:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_list">sys_ux_list</sys_db_object>
+        <sys_id>11c9d2b48a4842408200b26f57de5100</sys_id>
+        <sys_metadata>d15dafc02f84251049cbbed72799b648</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>All</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_scope_delete display_value="">0c6eb84bca374b638436267334dbdf01</sys_scope_delete>
+        <sys_update_name>sys_ux_list_d15dafc02f84251049cbbed72799b648</sys_update_name>
+        <sys_update_version display_value="sys_ux_list_d15dafc02f84251049cbbed72799b648">1d5dafc02f84251049cbbed72799b649</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 05:57:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan display_value="DEFAULT">523da512c611228900811a37c97c2014</delivery_plan>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description><![CDATA[<p><strong>Fill out the type of request and details about the request. Upon approval and fulfillment, you will receive an email.</strong></p>]]></description>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow/>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Departmental Request</name>
+        <no_attachment_v2>false</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>false</no_cart_v2>
+        <no_delivery_time_v2>false</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>false</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>false</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="System Administrator">6816f79cc0a8016401c5a33be04be441</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=309da3042f84251049cbbed72799b65d&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method/>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
+        <short_description>Submit a departmental request</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 05:23:22</sys_created_on>
+        <sys_id>309da3042f84251049cbbed72799b65d</sys_id>
+        <sys_mod_count>11</sys_mod_count>
+        <sys_name>Departmental Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_update_name>sc_cat_item_309da3042f84251049cbbed72799b65d</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 06:05:34</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=309da3042f84251049cbbed72799b65d"/>
+    <fx_price action="DELETE" query="id=309da3042f84251049cbbed72799b65d"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>309da3042f84251049cbbed72799b65d</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 05:23:22</sys_created_on>
+        <sys_id>819da3042f84251049cbbed72799b662</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 05:23:22</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</application>
+        <file_path/>
+        <instance_id>1f0bd872dbbc97487d8cf22ebf961918</instance_id>
+        <instance_name>dev52979</instance_name>
+        <name>sc_cat_item_309da3042f84251049cbbed72799b65d</name>
+        <payload>&lt;?xml version="1.0" encoding="UTF-8"?&gt;&lt;record_update table="sc_cat_item"&gt;&lt;sc_cat_item action="INSERT_OR_UPDATE"&gt;&lt;access_type&gt;restricted&lt;/access_type&gt;&lt;active&gt;true&lt;/active&gt;&lt;availability&gt;on_desktop&lt;/availability&gt;&lt;billable&gt;false&lt;/billable&gt;&lt;category/&gt;&lt;checked_out/&gt;&lt;cost&gt;0&lt;/cost&gt;&lt;custom_cart/&gt;&lt;delivery_plan display_value="DEFAULT"&gt;523da512c611228900811a37c97c2014&lt;/delivery_plan&gt;&lt;delivery_plan_script/&gt;&lt;delivery_time&gt;1970-01-03 00:00:00&lt;/delivery_time&gt;&lt;description&gt;&lt;![CDATA[&lt;p&gt;&lt;strong&gt;Fill out the type of request and details about the request. Upon approval and fulfillment, you will receive an email.&lt;/strong&gt;&lt;/p&gt;]]&gt;&lt;/description&gt;&lt;display_price_property&gt;non_zero&lt;/display_price_property&gt;&lt;entitlement_script/&gt;&lt;flow_designer_flow/&gt;&lt;group/&gt;&lt;hide_sp&gt;false&lt;/hide_sp&gt;&lt;icon/&gt;&lt;ignore_price&gt;true&lt;/ignore_price&gt;&lt;image/&gt;&lt;location/&gt;&lt;mandatory_attachment&gt;false&lt;/mandatory_attachment&gt;&lt;meta/&gt;&lt;mobile_hide_price&gt;false&lt;/mobile_hide_price&gt;&lt;mobile_picture/&gt;&lt;mobile_picture_type&gt;use_desktop_picture&lt;/mobile_picture_type&gt;&lt;model/&gt;&lt;name&gt;Departmental Request&lt;/name&gt;&lt;no_attachment_v2&gt;false&lt;/no_attachment_v2&gt;&lt;no_cart&gt;false&lt;/no_cart&gt;&lt;no_cart_v2&gt;false&lt;/no_cart_v2&gt;&lt;no_delivery_time_v2&gt;false&lt;/no_delivery_time_v2&gt;&lt;no_order&gt;false&lt;/no_order&gt;&lt;no_order_now&gt;false&lt;/no_order_now&gt;&lt;no_proceed_checkout&gt;false&lt;/no_proceed_checkout&gt;&lt;no_quantity&gt;false&lt;/no_quantity&gt;&lt;no_quantity_v2&gt;false&lt;/no_quantity_v2&gt;&lt;no_search&gt;false&lt;/no_search&gt;&lt;no_wishlist_v2&gt;false&lt;/no_wishlist_v2&gt;&lt;omit_price&gt;false&lt;/omit_price&gt;&lt;order&gt;0&lt;/order&gt;&lt;ordered_item_link/&gt;&lt;owner display_value="System Administrator"&gt;6816f79cc0a8016401c5a33be04be441&lt;/owner&gt;&lt;picture/&gt;&lt;preview&gt;JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;amp;sysparm_id=309da3042f84251049cbbed72799b65d&amp;amp;sysparm_preview=true", "summary");&lt;/preview&gt;&lt;price&gt;0&lt;/price&gt;&lt;published_ref/&gt;&lt;recurring_frequency/&gt;&lt;request_method/&gt;&lt;roles/&gt;&lt;sc_catalogs/&gt;&lt;sc_ic_item_staging/&gt;&lt;sc_ic_version/&gt;&lt;sc_template display_value="AES Standard items in Service Catalog"&gt;03302dd377023010f082d599cf5a99ba&lt;/sc_template&gt;&lt;short_description&gt;Submit a departmental request&lt;/short_description&gt;&lt;show_variable_help_on_load&gt;false&lt;/show_variable_help_on_load&gt;&lt;start_closed&gt;false&lt;/start_closed&gt;&lt;state/&gt;&lt;sys_class_name&gt;sc_cat_item&lt;/sys_class_name&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-12-24 05:23:22&lt;/sys_created_on&gt;&lt;sys_id&gt;309da3042f84251049cbbed72799b65d&lt;/sys_id&gt;&lt;sys_mod_count&gt;11&lt;/sys_mod_count&gt;&lt;sys_name&gt;Departmental Request&lt;/sys_name&gt;&lt;sys_package display_value="Dept Request" source="x_804955_dept_re_0"&gt;26b6ba3f2f77d11049cbbed72799b64d&lt;/sys_package&gt;&lt;sys_policy/&gt;&lt;sys_scope display_value="Dept Request"&gt;26b6ba3f2f77d11049cbbed72799b64d&lt;/sys_scope&gt;&lt;sys_update_name&gt;sc_cat_item_309da3042f84251049cbbed72799b65d&lt;/sys_update_name&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-12-24 06:05:34&lt;/sys_updated_on&gt;&lt;taxonomy_topic/&gt;&lt;template/&gt;&lt;template_manager_roles/&gt;&lt;type&gt;item&lt;/type&gt;&lt;use_sc_layout&gt;true&lt;/use_sc_layout&gt;&lt;vendor/&gt;&lt;visible_bundle&gt;true&lt;/visible_bundle&gt;&lt;visible_guide&gt;true&lt;/visible_guide&gt;&lt;visible_standalone&gt;true&lt;/visible_standalone&gt;&lt;workflow/&gt;&lt;/sc_cat_item&gt;&lt;sys_translated_text action="delete_multiple" query="documentkey=309da3042f84251049cbbed72799b65d"/&gt;&lt;fx_price action="delete_multiple" query="id=309da3042f84251049cbbed72799b65d"/&gt;&lt;fx_price action="INSERT_OR_UPDATE"&gt;&lt;amount&gt;0&lt;/amount&gt;&lt;currency display_value="USD"&gt;USD&lt;/currency&gt;&lt;field&gt;price&lt;/field&gt;&lt;id&gt;309da3042f84251049cbbed72799b65d&lt;/id&gt;&lt;parent/&gt;&lt;reference_amount&gt;0&lt;/reference_amount&gt;&lt;reference_currency display_value="USD"&gt;USD&lt;/reference_currency&gt;&lt;sys_created_by&gt;admin&lt;/sys_created_by&gt;&lt;sys_created_on&gt;2022-12-24 05:23:22&lt;/sys_created_on&gt;&lt;sys_id&gt;819da3042f84251049cbbed72799b662&lt;/sys_id&gt;&lt;sys_mod_count&gt;0&lt;/sys_mod_count&gt;&lt;sys_updated_by&gt;admin&lt;/sys_updated_by&gt;&lt;sys_updated_on&gt;2022-12-24 05:23:22&lt;/sys_updated_on&gt;&lt;table&gt;sc_cat_item&lt;/table&gt;&lt;type&gt;calculated&lt;/type&gt;&lt;/fx_price&gt;&lt;/record_update&gt;</payload>
+        <payload_hash>-1765430543</payload_hash>
+        <record_name>Departmental Request</record_name>
+        <reverted_from/>
+        <source>e2b6ba3f2f77d11049cbbed72799b6b3</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 06:05:35</sys_created_on>
+        <sys_id>1337334c2f84251049cbbed72799b600</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18542bc9ce70000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 06:05:35</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>5b37ff0c9784251052f9707f709bb7ff</update_guid>
+        <update_guid_history>5b37ff0c9784251052f9707f709bb7ff:-1765430543,0704bf48d4842510326755e4a5e0e070:-621972764,8b04bf481c84251058c4f337e9370d52:-1765430543,0ab37b48a3842510676c5d1fa7721e29:-621972764,8eb37b48748425101249da91abe18b0b:-1765430543,00b33b484f842510916fd51e72570d60:-621972764,b2f2bf081b84251098ceef056c031950:1674138751,3af2bf089f842510be3b352de790ed32:-1061373646,26f27f0854842510606f6b7ac6be19f2:1674138751,8ae23f08c08425103f7617888d9da99b:1137936193,e5cd67043e84251092b79dd3e330998b:-1061373646,cd9da3049e842510db58a8cac3c53e65:-1432370517</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Departmental Request">c847334c2f84251049cbbed72799b623</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 06:05:37</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>0b16e4a906e84f0a8d0f592c60a4dbe1</sys_id>
+        <sys_metadata>309da3042f84251049cbbed72799b65d</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Departmental Request</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_scope_delete display_value="">0c6eb84bca374b638436267334dbdf01</sys_scope_delete>
+        <sys_update_name>sc_cat_item_309da3042f84251049cbbed72799b65d</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_309da3042f84251049cbbed72799b65d">1337334c2f84251049cbbed72799b600</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 06:05:37</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

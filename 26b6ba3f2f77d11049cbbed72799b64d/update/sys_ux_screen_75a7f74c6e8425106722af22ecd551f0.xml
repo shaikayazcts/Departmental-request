@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_screen">
+    <sys_ux_screen action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <app_config display_value="Dept Request Config">fda7f74c358425106c525860bdb2b4ec</app_config>
+        <description/>
+        <event_mappings/>
+        <macroponent display_value="Knowledge View">3094297373311010b29f2e46fbf6a7a1</macroponent>
+        <macroponent_config>{&#13;
+  "label" : "",&#13;
+  "bare" : true,&#13;
+  "scrollable" : "y",&#13;
+  "headerLevel" : "1",&#13;
+  "interceptNotifications" : false,&#13;
+  "propagateNotifications" : false,&#13;
+  "views" : "",&#13;
+  "selectedTabIndex" : 0,&#13;
+  "table" : "",&#13;
+  "sysId" : ""&#13;
+}</macroponent_config>
+        <name>KB default</name>
+        <order>0</order>
+        <parent_macroponent display_value="Agent Workspace App Shell">c276387cc331101080d6d3658940ddd2</parent_macroponent>
+        <required_translations>[]</required_translations>
+        <screen_condition/>
+        <screen_type display_value="KB">31a7f74c6c842510baa7ade2069cabef</screen_type>
+        <sys_class_name>sys_ux_screen</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 06:07:24</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>75a7f74c6e8425106722af22ecd551f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB default</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_update_name>sys_ux_screen_75a7f74c6e8425106722af22ecd551f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 06:07:24</sys_updated_on>
+    </sys_ux_screen>
+    <sys_translated_text action="delete_multiple" query="documentkey=75a7f74c6e8425106722af22ecd551f0"/>
+</record_update>

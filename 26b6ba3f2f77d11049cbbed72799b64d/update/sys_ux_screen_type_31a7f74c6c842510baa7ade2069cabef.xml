@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_screen_type">
+    <sys_ux_screen_type action="INSERT_OR_UPDATE">
+        <description/>
+        <name>KB</name>
+        <sys_class_name>sys_ux_screen_type</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 06:07:24</sys_created_on>
+        <sys_id>31a7f74c6c842510baa7ade2069cabef</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>KB</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_update_name>sys_ux_screen_type_31a7f74c6c842510baa7ade2069cabef</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 06:07:24</sys_updated_on>
+    </sys_ux_screen_type>
+    <sys_translated_text action="delete_multiple" query="documentkey=31a7f74c6c842510baa7ade2069cabef"/>
+</record_update>

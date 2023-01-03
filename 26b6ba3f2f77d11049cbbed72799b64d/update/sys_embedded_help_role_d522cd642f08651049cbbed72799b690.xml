@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_804955_dept_re_0.Admin" name="x_804955_dept_re_0.Admin">c922cd642f08651049cbbed72799b68d</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-25 06:11:19</sys_created_on>
+        <sys_id>d522cd642f08651049cbbed72799b690</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>c922cd642f08651049cbbed72799b68d</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_d522cd642f08651049cbbed72799b690</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-25 06:11:19</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

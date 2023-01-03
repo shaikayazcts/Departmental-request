@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="DELETE">
+        <choices/>
+        <description>Tabs Configuration</description>
+        <name>chrome_tab</name>
+        <page display_value="">545d6fc0568425104c985ee1a1c2b0b2</page>
+        <required_translations>[{"message":"New Incident","comment":""},{"message":"New Interaction","comment":""}]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 05:22:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>145d6fc0898425101e9f63abc47499b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_update_name>sys_ux_page_property_145d6fc0898425101e9f63abc47499b2</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 05:22:15</sys_updated_on>
+        <type>json</type>
+        <unique_name>x_804955_dept_re_0.545d6fc0568425104c985ee1a1c2b0b2.root.chrome_tab</unique_name>
+        <value>{&#13;
+   "contextual":[&#13;
+      "record"&#13;
+   ],&#13;
+   "newTabMenu":[&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Interaction"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"interaction",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         },&#13;
+         "condition":{&#13;
+            "tableDescription":{&#13;
+               "table":"interaction",&#13;
+               "canCreate":true&#13;
+            }&#13;
+         }&#13;
+      },&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Incident"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"incident",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         }&#13;
+      }&#13;
+   ],&#13;
+   "maxMainTabLimit":10,&#13;
+   "maxTotalSubTabLimit":30&#13;
+}</value>
+    </sys_ux_page_property>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</application>
+        <file_path/>
+        <instance_id>1f0bd872dbbc97487d8cf22ebf961918</instance_id>
+        <instance_name>dev52979</instance_name>
+        <name>sys_ux_page_property_145d6fc0898425101e9f63abc47499b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property"><sys_ux_page_property action="INSERT_OR_UPDATE"><choices/><description>Tabs Configuration</description><name>chrome_tab</name><page display_value="">545d6fc0568425104c985ee1a1c2b0b2</page><required_translations>[{"message":"New Incident","comment":""},{"message":"New Interaction","comment":""}]</required_translations><route/><suffix/><sys_class_name>sys_ux_page_property</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-24 05:22:15</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>145d6fc0898425101e9f63abc47499b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>chrome_tab</sys_name><sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package><sys_policy/><sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope><sys_update_name>sys_ux_page_property_145d6fc0898425101e9f63abc47499b2</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-24 05:22:15</sys_updated_on><type>json</type><unique_name>x_804955_dept_re_0.545d6fc0568425104c985ee1a1c2b0b2.root.chrome_tab</unique_name><value>{&#13;
+   "contextual":[&#13;
+      "record"&#13;
+   ],&#13;
+   "newTabMenu":[&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Interaction"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"interaction",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         },&#13;
+         "condition":{&#13;
+            "tableDescription":{&#13;
+               "table":"interaction",&#13;
+               "canCreate":true&#13;
+            }&#13;
+         }&#13;
+      },&#13;
+      {&#13;
+         "label":{&#13;
+            "translatable":true,&#13;
+            "message":"New Incident"&#13;
+         },&#13;
+         "routeInfo":{&#13;
+            "route":"record",&#13;
+            "fields":{&#13;
+               "table":"incident",&#13;
+               "sysId":"-1"&#13;
+            },&#13;
+            "multiInstField":"sysId"&#13;
+         }&#13;
+      }&#13;
+   ],&#13;
+   "maxMainTabLimit":10,&#13;
+   "maxTotalSubTabLimit":30&#13;
+}</value></sys_ux_page_property></record_update>]]></payload>
+        <payload_hash>-379872844</payload_hash>
+        <record_name>chrome_tab</record_name>
+        <reverted_from/>
+        <source>9d7b8d0c2f73111049cbbed72799b6dd</source>
+        <source_table>sys_upgrade_history</source_table>
+        <state>previous</state>
+        <sys_created_by/>
+        <sys_created_on>2022-12-11 07:19:22</sys_created_on>
+        <sys_id>1777b34c2f84251049cbbed72799b6b7</sys_id>
+        <sys_mod_count/>
+        <sys_recorded_at>185000d7c900000000</sys_recorded_at>
+        <sys_updated_by/>
+        <sys_updated_on/>
+        <type>UX Page Property</type>
+        <update_guid>d377b34ca58425105e28c4ece594b0b7</update_guid>
+        <update_guid_history>d377b34ca58425105e28c4ece594b0b7:-379872844</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-24 06:06:40</sys_created_on>
+        <sys_db_object display_value="" name="sys_ux_page_property">sys_ux_page_property</sys_db_object>
+        <sys_id>6db13dc6814644b98004b4d387911949</sys_id>
+        <sys_metadata>145d6fc0898425101e9f63abc47499b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>chrome_tab</sys_name>
+        <sys_package display_value="Dept Request" source="x_804955_dept_re_0">26b6ba3f2f77d11049cbbed72799b64d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Dept Request">26b6ba3f2f77d11049cbbed72799b64d</sys_scope>
+        <sys_scope_delete display_value="">0c6eb84bca374b638436267334dbdf01</sys_scope_delete>
+        <sys_update_name>sys_ux_page_property_145d6fc0898425101e9f63abc47499b2</sys_update_name>
+        <sys_update_version display_value="sys_ux_page_property_145d6fc0898425101e9f63abc47499b2">1777b34c2f84251049cbbed72799b6b7</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-24 06:06:40</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
